@@ -1,0 +1,7 @@
+-------------Aptech Student's Mark System---------------
+
++) Had better run on OS Windows XP
++) Run StudentMarkSystem.CPP with Turbo C3.0
+
+----------------------------------------------------------------
+liemmaster1990@gmail.com
